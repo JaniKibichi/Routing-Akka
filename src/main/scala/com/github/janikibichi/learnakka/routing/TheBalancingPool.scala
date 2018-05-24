@@ -7,7 +7,7 @@ object TheBalancingPool extends App {
   val actorSystem = ActorSystem("TheBalancingPool")
 
   //Create and define the Actor in the ActorSystem
-  val router = actorSystem.actorOf(BalancingPool.(5).props(Props[BalancingPoolActor]))
+  val router = actorSystem.actorOf(BalancingPool(5).props(Props[BalancingPoolActor]))
 }
 
 //Define A Simple Actor
