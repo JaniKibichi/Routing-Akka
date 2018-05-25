@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5627b10f-51bf-4cf5-b08d-249a134aead2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/TheConsistentHashingPool.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/TheRandomPool.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/SpecialHandledMessages.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,19 +30,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="421">
-                <caret line="61" column="93" selection-start-line="61" selection-start-column="93" selection-end-line="61" selection-end-column="109" />
+              <first_editor relative-caret-position="385">
+                <caret line="66" column="54" selection-start-line="66" selection-end-line="66" selection-end-column="59" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/SpecialHandledMessages.scala">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/TheRandomPool.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
@@ -150,8 +153,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/TheScatterGatherFirstCompletedPool.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/TheTailChoppingPool.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/TheConsistentHashingPool.scala" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/TheRandomPool.scala" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -337,7 +340,7 @@
         <observation name="typedSelect" value="41.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="cancelled" value="1414.0" />
+        <observation name="cancelled" value="1470.0" />
         <observation name="explicitSelect" value="227.0" />
         <observation name="typedSelect" value="195.0" />
       </dailyData>
@@ -355,7 +358,7 @@
         <observation name="count" value="554.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="count" value="1836.0" />
+        <observation name="count" value="1892.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -766,7 +769,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527241889336" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527243909934" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -790,7 +793,7 @@
       </Profilers>
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527241889338" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527243909934" />
       </method>
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -982,16 +985,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="421">
-            <caret line="61" column="93" selection-start-line="61" selection-start-column="93" selection-end-line="61" selection-end-column="109" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/TheConsistentHashingPool.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-417">
@@ -1019,6 +1012,19 @@
           <folding>
             <element signature="e#50#95#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/SpecialHandledMessages.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="385">
+            <caret line="66" column="54" selection-start-line="66" selection-end-line="66" selection-end-column="59" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
