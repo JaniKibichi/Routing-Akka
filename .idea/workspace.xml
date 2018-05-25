@@ -2,45 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5627b10f-51bf-4cf5-b08d-249a134aead2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/RoundRobinPool.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$06995ac7a6840f97e116$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$06995ac7a6840f97e116.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$06995ac7a6840f97e116.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$53e4d56bb5c1519adbeb$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$53e4d56bb5c1519adbeb.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$53e4d56bb5c1519adbeb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$60d1a2686d2ee9fa163f$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$60d1a2686d2ee9fa163f.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$60d1a2686d2ee9fa163f.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7a4ac45c8160ef4b9fc6$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7a4ac45c8160ef4b9fc6.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7a4ac45c8160ef4b9fc6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8137963e999f3076c7b5$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8137963e999f3076c7b5.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8137963e999f3076c7b5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/routing-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/routing-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/routing-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/routing-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-routing-build-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -67,14 +31,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="360">
-                <caret line="20" column="112" selection-start-line="20" selection-start-column="112" selection-end-line="20" selection-end-column="112" />
+              <first_editor relative-caret-position="432">
+                <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-end-line="24" selection-end-column="61" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/RoundRobinPool.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -131,6 +104,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/BalancingPool.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/TheBalancingPool.scala" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/RoundRobinPool.scala" />
       </list>
     </option>
   </component>
@@ -149,7 +123,7 @@
         <observation name="false" value="95.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="false" value="1.0" />
+        <observation name="false" value="11.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:liftShorterClasses">
@@ -157,7 +131,7 @@
         <observation name="UNDEFINED" value="95.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="UNDEFINED" value="1.0" />
+        <observation name="UNDEFINED" value="11.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:middleMatching">
@@ -165,7 +139,7 @@
         <observation name="false" value="95.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="false" value="1.0" />
+        <observation name="false" value="11.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:nonGeneric">
@@ -173,7 +147,7 @@
         <observation name="UNDEFINED" value="95.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="UNDEFINED" value="1.0" />
+        <observation name="UNDEFINED" value="11.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_inResolveScope">
@@ -183,7 +157,9 @@
         <observation name="true" value="49.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="true" value="1.0" />
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="false" value="8.0" />
+        <observation name="true" value="2.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_openedInEditor">
@@ -193,6 +169,8 @@
         <observation name="true" value="5.0" />
       </dailyData>
       <dailyData date="25-5-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="false" value="9.0" />
         <observation name="true" value="1.0" />
       </dailyData>
     </factor>
@@ -203,6 +181,8 @@
         <observation name="true" value="5.0" />
       </dailyData>
       <dailyData date="25-5-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="false" value="9.0" />
         <observation name="true" value="1.0" />
       </dailyData>
     </factor>
@@ -213,6 +193,8 @@
         <observation name="true" value="5.0" />
       </dailyData>
       <dailyData date="25-5-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="false" value="9.0" />
         <observation name="true" value="1.0" />
       </dailyData>
     </factor>
@@ -222,7 +204,8 @@
         <observation name="false" value="90.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="false" value="1.0" />
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="false" value="10.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:templates">
@@ -231,7 +214,7 @@
         <observation name="true" value="1.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="false" value="1.0" />
+        <observation name="false" value="11.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:accessible">
@@ -239,7 +222,7 @@
         <observation name="UNDEFINED" value="95.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="UNDEFINED" value="1.0" />
+        <observation name="UNDEFINED" value="11.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:expectedType">
@@ -247,7 +230,7 @@
         <observation name="UNDEFINED" value="95.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="UNDEFINED" value="1.0" />
+        <observation name="UNDEFINED" value="11.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:kind">
@@ -255,7 +238,7 @@
         <observation name="UNDEFINED" value="95.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="UNDEFINED" value="1.0" />
+        <observation name="UNDEFINED" value="11.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:prox_groovyReferenceListWeigher">
@@ -264,7 +247,8 @@
         <observation name="unknown" value="90.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="unknown" value="1.0" />
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="unknown" value="10.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:prox_javaInheritance">
@@ -274,7 +258,9 @@
         <observation name="null" value="62.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="null" value="1.0" />
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="false" value="1.0" />
+        <observation name="null" value="9.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:prox_referenceList">
@@ -283,7 +269,8 @@
         <observation name="unknown" value="90.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="unknown" value="1.0" />
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="unknown" value="10.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:recursion">
@@ -291,7 +278,7 @@
         <observation name="UNDEFINED" value="95.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="UNDEFINED" value="1.0" />
+        <observation name="UNDEFINED" value="11.0" />
       </dailyData>
     </factor>
     <factor id="completionFinishedType">
@@ -301,8 +288,9 @@
         <observation name="typedSelect" value="41.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="cancelled" value="11.0" />
-        <observation name="typedSelect" value="1.0" />
+        <observation name="cancelled" value="59.0" />
+        <observation name="explicitSelect" value="6.0" />
+        <observation name="typedSelect" value="5.0" />
       </dailyData>
     </factor>
     <factor id="completionType">
@@ -310,7 +298,7 @@
         <observation name="BASIC" value="128.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="BASIC" value="3.0" />
+        <observation name="BASIC" value="14.0" />
       </dailyData>
     </factor>
     <factor id="completionUsage">
@@ -318,7 +306,7 @@
         <observation name="count" value="554.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="count" value="12.0" />
+        <observation name="count" value="70.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -331,7 +319,7 @@
       </dailyData>
       <dailyData date="25-5-2018">
         <observation name="average" value="0.0" />
-        <observation name="count" value="1.0" />
+        <observation name="count" value="21.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -347,7 +335,7 @@
       </dailyData>
       <dailyData date="25-5-2018">
         <observation name="average" value="0.0" />
-        <observation name="count" value="1.0" />
+        <observation name="count" value="21.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -358,7 +346,7 @@
         <observation name="UNDEFINED" value="95.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="UNDEFINED" value="1.0" />
+        <observation name="UNDEFINED" value="11.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:nameEnd">
@@ -366,7 +354,7 @@
         <observation name="UNDEFINED" value="95.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="UNDEFINED" value="1.0" />
+        <observation name="UNDEFINED" value="11.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:position">
@@ -379,7 +367,7 @@
       </dailyData>
       <dailyData date="25-5-2018">
         <observation name="average" value="0.0" />
-        <observation name="count" value="1.0" />
+        <observation name="count" value="21.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -394,11 +382,11 @@
         <observation name="variance" value="200523.477005" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="average" value="0.0" />
-        <observation name="count" value="1.0" />
+        <observation name="average" value="-439.238095" />
+        <observation name="count" value="21.0" />
         <observation name="max" value="0.0" />
-        <observation name="min" value="0.0" />
-        <observation name="variance" value="0.0" />
+        <observation name="min" value="-1153.0" />
+        <observation name="variance" value="192391.286206" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:priority">
@@ -411,7 +399,7 @@
       </dailyData>
       <dailyData date="25-5-2018">
         <observation name="average" value="0.0" />
-        <observation name="count" value="1.0" />
+        <observation name="count" value="21.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -427,11 +415,12 @@
         <observation name="variance" value="3024.201552" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="average" value="300.0" />
-        <observation name="count" value="1.0" />
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="average" value="15.789474" />
+        <observation name="count" value="19.0" />
         <observation name="max" value="300.0" />
-        <observation name="min" value="300.0" />
-        <observation name="variance" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="3046.020265" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_knownElement">
@@ -444,8 +433,9 @@
         <observation name="variance" value="0.0" />
       </dailyData>
       <dailyData date="25-5-2018">
+        <observation name="UNDEFINED" value="1.0" />
         <observation name="average" value="0.0" />
-        <observation name="count" value="1.0" />
+        <observation name="count" value="19.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -461,11 +451,12 @@
         <observation name="variance" value="0.134409" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="average" value="2.0" />
-        <observation name="count" value="1.0" />
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="average" value="0.105263" />
+        <observation name="count" value="19.0" />
         <observation name="max" value="2.0" />
-        <observation name="min" value="2.0" />
-        <observation name="variance" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.135379" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_samePsiMember">
@@ -478,11 +469,12 @@
         <observation name="variance" value="0.021305" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="average" value="1.0" />
-        <observation name="count" value="1.0" />
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="average" value="0.052632" />
+        <observation name="count" value="19.0" />
         <observation name="max" value="1.0" />
-        <observation name="min" value="1.0" />
-        <observation name="variance" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.033845" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:query_length">
@@ -495,7 +487,7 @@
       </dailyData>
       <dailyData date="25-5-2018">
         <observation name="average" value="0.0" />
-        <observation name="count" value="1.0" />
+        <observation name="count" value="21.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -510,11 +502,11 @@
         <observation name="variance" value="27.627384" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="average" value="6.0" />
-        <observation name="count" value="1.0" />
-        <observation name="max" value="6.0" />
-        <observation name="min" value="6.0" />
-        <observation name="variance" value="0.0" />
+        <observation name="average" value="7.238095" />
+        <observation name="count" value="21.0" />
+        <observation name="max" value="14.0" />
+        <observation name="min" value="3.0" />
+        <observation name="variance" value="5.664102" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:sameWords">
@@ -522,7 +514,7 @@
         <observation name="UNDEFINED" value="95.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="UNDEFINED" value="1.0" />
+        <observation name="UNDEFINED" value="11.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:shorter">
@@ -530,7 +522,7 @@
         <observation name="UNDEFINED" value="95.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="UNDEFINED" value="1.0" />
+        <observation name="UNDEFINED" value="11.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:simple">
@@ -538,7 +530,7 @@
         <observation name="UNDEFINED" value="95.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="UNDEFINED" value="1.0" />
+        <observation name="UNDEFINED" value="11.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:sorter">
@@ -551,7 +543,7 @@
       </dailyData>
       <dailyData date="25-5-2018">
         <observation name="average" value="1.0" />
-        <observation name="count" value="1.0" />
+        <observation name="count" value="21.0" />
         <observation name="max" value="1.0" />
         <observation name="min" value="1.0" />
         <observation name="variance" value="0.0" />
@@ -562,7 +554,7 @@
         <observation name="UNDEFINED" value="95.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="UNDEFINED" value="1.0" />
+        <observation name="UNDEFINED" value="11.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:stats">
@@ -574,11 +566,11 @@
         <observation name="variance" value="17480200.543992" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="average" value="0.0" />
-        <observation name="count" value="1.0" />
-        <observation name="max" value="0.0" />
+        <observation name="average" value="950.571429" />
+        <observation name="count" value="21.0" />
+        <observation name="max" value="9981.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.0" />
+        <observation name="variance" value="4077432.009184" />
       </dailyData>
     </factor>
     <factor id="itemPosition">
@@ -587,10 +579,17 @@
         <observation name="1" value="6.0" />
         <observation name="2" value="3.0" />
       </dailyData>
+      <dailyData date="25-5-2018">
+        <observation name="0" value="6.0" />
+      </dailyData>
     </factor>
     <factor id="mnemonicsUsage">
       <dailyData date="24-5-2018">
         <observation name="total" value="34.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+      <dailyData date="25-5-2018">
+        <observation name="total" value="1.0" />
         <observation name="withMnemonics" value="0.0" />
       </dailyData>
     </factor>
@@ -604,6 +603,11 @@
         <observation name="5" value="7.0" />
         <observation name="8" value="1.0" />
       </dailyData>
+      <dailyData date="25-5-2018">
+        <observation name="0" value="3.0" />
+        <observation name="1" value="2.0" />
+        <observation name="2" value="1.0" />
+      </dailyData>
     </factor>
     <factor id="timeBetweenTyping">
       <dailyData date="24-5-2018">
@@ -611,8 +615,8 @@
         <observation name="count" value="167.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="average" value="216.0" />
-        <observation name="count" value="4.0" />
+        <observation name="average" value="192.315789" />
+        <observation name="count" value="19.0" />
       </dailyData>
     </factor>
   </component>
@@ -701,7 +705,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527220474809" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527220806668" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -725,7 +729,7 @@
       </Profilers>
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527220474812" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527220806669" />
       </method>
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -825,7 +829,7 @@
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3367917" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3367917" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -877,6 +881,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="432">
+            <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-end-line="24" selection-end-column="61" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/TheBalancingPool.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -887,13 +901,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="20" column="112" selection-start-line="20" selection-start-column="112" selection-end-line="20" selection-end-column="112" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/routing/RoundRobinPool.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
         </state>
       </provider>
     </entry>

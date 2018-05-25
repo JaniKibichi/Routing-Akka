@@ -19,3 +19,10 @@ git checkout -b balancing_pool_actors create_smallest_mailbox_pool
 ````
 - Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.monitoring.BalancingPool.scala</b>
 - Run the App to [send messages to the BalancingPool mailbox.](https://asciinema.org/a/QeLY9MasY0jlKr0tSWmH2SRvQ)
+<br><br>
+- Branch out to explore creating RoundRobinPool of Actors
+````
+git checkout -b round_robin_pool_actors balancing_pool_actors
+````
+- Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.monitoring.RoundRobinPool.scala</b>
+- Run the App to [send messages to the RoundRobin mailbox.](https://asciinema.org/a/QeLY9MasY0jlKr0tSWmH2SRvQ)
