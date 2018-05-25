@@ -40,3 +40,10 @@ git checkout -b scatter_gather_first_completed_pool broadcast_pool_actors
 ````
 - Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.monitoring.ScatterGatherFirstCompletedPool.scala</b>
 - Run the App to [send messages to the ScatterGatherFirstComplete mailbox.](https://asciinema.org/a/nYO3fNonqwighBP4Z7robVWll)
+<br><br>
+- Branch out to explore creating TailChoppingPool of Actors
+````
+git checkout -b tailchopping_pool_actors scatter_gather_first_completed_pool 
+````
+- Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.monitoring.TheTailChoppingPool.scala</b>
+- Run the App to [send messages to the TailChoppingPool mailbox.](https://asciinema.org/a/nYO3fNonqwighBP4Z7robVWll)
