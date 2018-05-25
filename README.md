@@ -67,4 +67,4 @@ git checkout -b random_pool_actors consistent_hashing_pool_actors
 git checkout -b special_handled_messages random_pool_actors
 ````
 - Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.monitoring.SpecialHandledMessages.scala</b>
-- Run the App to [send messages to the SpecialHandledMessages.]()
+- Run the App to [send messages to the SpecialHandledMessages.](https://asciinema.org/a/SLAPZm0Ijmo6pxvTnSnHtA4hh)
