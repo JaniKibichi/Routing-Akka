@@ -25,4 +25,4 @@ git checkout -b balancing_pool_actors create_smallest_mailbox_pool
 git checkout -b round_robin_pool_actors balancing_pool_actors
 ````
 - Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.monitoring.RoundRobinPool.scala</b>
-- Run the App to [send messages to the RoundRobin mailbox.](https://asciinema.org/a/QeLY9MasY0jlKr0tSWmH2SRvQ)
+- Run the App to [send messages to the RoundRobin mailbox.](https://asciinema.org/a/qaPszz6EbZFHeezGqWYX8bI53)
