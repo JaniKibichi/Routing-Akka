@@ -74,4 +74,4 @@ git checkout -b special_handled_messages random_pool_actors
 git checkout -b dynamically_resizable_actor_pool specially_handled_messages
 ````
 - Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.monitoring.DynamicResizePool.scala</b>
-- Run the App to [send messages to the DynamicallyResizedPool.](https://asciinema.org/a/SLAPZm0Ijmo6pxvTnSnHtA4hh)
+- Run the App to [send messages to the DynamicallyResizedPool.](https://asciinema.org/a/woXqRNfWBBRZu1ps61NoLDa7v)
