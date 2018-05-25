@@ -4,7 +4,7 @@
 		module="route-akka_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20180524175750"
+		publication="20180525064812"
 	>
 		<description>
 		Route-Akka

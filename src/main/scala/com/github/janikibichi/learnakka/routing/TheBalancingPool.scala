@@ -8,6 +8,10 @@ object TheBalancingPool extends App {
 
   //Create and define the Actor in the ActorSystem
   val router = actorSystem.actorOf(BalancingPool(5).props(Props[BalancingPoolActor]))
+
+  for(i <- 1 to 5){
+    router ! s"Hello $i"
+  }
 }
 
 //Define A Simple Actor
