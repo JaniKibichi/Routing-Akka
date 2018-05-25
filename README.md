@@ -18,4 +18,4 @@ git checkout -b create_smallest_mailbox_pool master
 git checkout -b balancing_pool_actors create_smallest_mailbox_pool 
 ````
 - Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.monitoring.BalancingPool.scala</b>
-- Run the App to [send messages to the BalancingPool mailbox.]()
+- Run the App to [send messages to the BalancingPool mailbox.](https://asciinema.org/a/QeLY9MasY0jlKr0tSWmH2SRvQ)
