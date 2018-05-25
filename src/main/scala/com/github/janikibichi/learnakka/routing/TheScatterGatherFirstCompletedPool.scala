@@ -14,7 +14,7 @@ object TheScatterGatherFirstCompletedPool extends App {
 
   //Create and define Actor in ActorSystem
   val router = actorSystem.actorOf(ScatterGatherFirstCompletedPool(5, within = 10 seconds).props(Props[ScatterGatherFirstCompletedPoolActor]))
-  
+
   println(Await.result((router ? "hello").mapTo[String], 10 seconds))
 }
 
