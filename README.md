@@ -26,3 +26,10 @@ git checkout -b round_robin_pool_actors balancing_pool_actors
 ````
 - Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.monitoring.RoundRobinPool.scala</b>
 - Run the App to [send messages to the RoundRobin mailbox.](https://asciinema.org/a/qaPszz6EbZFHeezGqWYX8bI53)
+<br><br>
+- Branch out to explore creating BroadcastPool of Actors
+````
+git checkout -b broadcast_pool_actors round_robin_pool_actors 
+````
+- Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.monitoring.BroadcastPool.scala</b>
+- Run the App to [send messages to the BroadcastPool mailbox.](https://asciinema.org/a/qaPszz6EbZFHeezGqWYX8bI53)
