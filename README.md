@@ -47,3 +47,10 @@ git checkout -b tailchopping_pool_actors scatter_gather_first_completed_pool
 ````
 - Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.monitoring.TheTailChoppingPool.scala</b>
 - Run the App to [send messages to the TailChoppingPool mailbox.](https://asciinema.org/a/muhWIzMLPMvrZrSeFUMHCvQzr)
+<br><br>
+- Branch out to explore creating ConsistentHashingPool of Actors
+````
+git checkout -b consistent_hashing_pool_actors tail_chopping_pool 
+````
+- Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.monitoring.TheConsistentHashingPool.scala</b>
+- Run the App to [send messages to the ConsistentHashingPool mailbox.](https://asciinema.org/a/muhWIzMLPMvrZrSeFUMHCvQzr)

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5627b10f-51bf-4cf5-b08d-249a134aead2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,8 +33,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="439">
-                <caret line="48" column="115" selection-start-line="48" selection-start-column="115" selection-end-line="48" selection-end-column="115" />
+              <first_editor relative-caret-position="385">
+                <caret line="52" column="18" selection-start-line="52" selection-end-line="52" selection-end-column="66" />
               </first_editor>
               <second_editor />
             </state>
@@ -332,7 +331,7 @@
         <observation name="typedSelect" value="41.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="cancelled" value="906.0" />
+        <observation name="cancelled" value="955.0" />
         <observation name="explicitSelect" value="146.0" />
         <observation name="typedSelect" value="95.0" />
       </dailyData>
@@ -350,7 +349,7 @@
         <observation name="count" value="554.0" />
       </dailyData>
       <dailyData date="25-5-2018">
-        <observation name="count" value="1147.0" />
+        <observation name="count" value="1196.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -759,7 +758,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527230369224" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527231482248" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -783,7 +782,7 @@
       </Profilers>
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527230369225" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527231482250" />
       </method>
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -988,8 +987,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="439">
-            <caret line="48" column="115" selection-start-line="48" selection-start-column="115" selection-end-line="48" selection-end-column="115" />
+          <first_editor relative-caret-position="385">
+            <caret line="52" column="18" selection-start-line="52" selection-end-line="52" selection-end-column="66" />
           </first_editor>
           <second_editor />
         </state>
