@@ -13,8 +13,8 @@ object TheScatterGatherFirstCompletedPool extends App {
   val actorSystem = ActorSystem("ScatterGather")
 
   //Create and define Actor in ActorSystem
-  val router = actorSystem.actorOf(ScatterGatherFirstCompletedPool(5, within = 10.seconds).props(Props[ScatterGatherFirstCompletedPool]))
-
+  val router = actorSystem.actorOf(ScatterGatherFirstCompletedPool(5, within = 10 seconds).props(Props[ScatterGatherFirstCompletedPoolActor]))
+  
   println(Await.result((router ? "hello").mapTo[String], 10 seconds))
 }
 
@@ -25,7 +25,7 @@ class ScatterGatherFirstCompletedPoolActor extends Actor {
       sender ! "I say hello back to you"
 
     case _ =>
-      println(s"I don't understand the message")
+      println(s" I don't understand the message")
   }
 }
 
